@@ -1,0 +1,12 @@
+let str = "Ansh Mani Tripathi";
+let str1 = "Hariom Singh"
+
+console.log(str[0]);
+console.log(str[3]);
+console.log(str[6]);
+console.log(str[10]);
+
+let str2 = str + str1;
+console.log(str2);
+
+console.log(str.length);
