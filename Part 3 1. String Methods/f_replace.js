@@ -2,7 +2,7 @@
 
 // replace first occurence
 
-// str.repace(which element , by which element);
+// str.replace(which element , by which element);
 
 let str = "Hello my name is ansh, and i love coding";
 

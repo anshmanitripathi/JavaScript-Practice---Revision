@@ -7,6 +7,5 @@ console.log(arr);
 
 
 // Arrays are mutable 
-
 arr[1] = "Ansh";
 console.log(arr);
