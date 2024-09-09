@@ -7,3 +7,18 @@ function Sum(num){
 }
 
 console.log(Sum(10));
+
+// concatenation of all the strings of an array.
+
+function ConcatArray(arr){
+    let newArr = "";
+    for(item of arr){
+        newArr+=item;
+    }
+    return newArr;
+}
+
+let arr = ["hello", "hi", "ansh", "hari", "pathak"];
+
+let newArr = ConcatArray(arr);
+console.log(newArr);
